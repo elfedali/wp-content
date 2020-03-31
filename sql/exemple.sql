@@ -1,0 +1,1 @@
+SELECT * FROM  todos_db.todos;
